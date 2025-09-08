@@ -3,16 +3,26 @@ Matheus Vieira e Felipe Morotti
 
 Este é um projeto acadêmico desenvolvido em *C* que implementa um sistema de cinema, usando listas duplamente encadeadas.
 
-#Trabalho-AED-I/
+Trabalho-AED-I/
+
 ├── src/
+
 │   ├── main.c
+
 │   ├── filme.c
+
 │   ├── ator.c
+
 │   ├── filme.h
+
 │   ├── ator.h
+
 ├── Elencos/
+
 │   └── ElencoInterestelar.txt
-└── README.m#
+
+└── README.m
+
 
 1. Pré-requisitos:
 Compilador GCC
