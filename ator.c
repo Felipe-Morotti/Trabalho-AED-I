@@ -89,7 +89,7 @@ void filmes_por_ator ( Lista *li , char * nome ){ // Filmes dos quais dado ator 
     }
     if ( achou == 0 ) { // Caso o Ator não for encontrado;
         limparTela();
-        printf ("\n Não ha filmes, presentes na lista, que o ator participe. \n");
+        printf ("\n Nao ha filmes, presentes na lista, que o ator participe. \n");
         
     }
     
