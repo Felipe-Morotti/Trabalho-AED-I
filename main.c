@@ -253,6 +253,7 @@ int main() {
                             case 4:
                                 limparTela();
                                 sortear_filme ( lista );
+                                printf ("\n\nVoltar: digite Enter");
                                 getchar ();
                                 
                             break;
@@ -297,4 +298,5 @@ int main() {
     }
     
     return 0;
+
 }
