@@ -40,3 +40,6 @@ Windows:
 Linux:
 
 ./main
+
+
+Para usar arquivos para inserção de elencos, adicione os arquivos .txt na mesma pasta dos outros arquivos .c e .h
