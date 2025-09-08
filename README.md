@@ -10,7 +10,7 @@ Este é um projeto acadêmico desenvolvido em *C* que implementa um sistema de c
 
 Compilador GCC
 
-3. Compilação. Salve os arquivos juntos em um diretório de sua preferência.
+2. Compilação. Salve os arquivos juntos em um diretório de sua preferência.
    
 Windows:
 
