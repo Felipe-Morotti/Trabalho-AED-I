@@ -1,13 +1,17 @@
 # Trabalho-AED-I
 Matheus Vieira e Felipe Morotti
 
-Este é um projeto acadêmico desenvolvido em *C* que implementa um sistema de cinema, usando listas duplamente encadeadas.
+
+##Este é um projeto acadêmico desenvolvido em *C* que implementa um sistema de cinema, usando listas duplamente encadeadas.##
+
 
 
 1. Pré-requisitos:
+
 Compilador GCC
 
-2. Compilação. Salve os arquivos juntos em um diretório de sua preferência.
+3. Compilação. Salve os arquivos juntos em um diretório de sua preferência.
+   
 Windows:
 
 2.1 Abra o CMD na pasta do projeto:
