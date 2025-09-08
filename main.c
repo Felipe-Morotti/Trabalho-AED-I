@@ -54,13 +54,13 @@ int main() {
                                 limparTela();
                                 printf ("\nTitulo do filme:\n"); //Qual o nome do filme
                                 scanf (" %99[^\n]", filme.titulo);
-                                printf ("\nDuracao do filme (em minutos): "); //Qual a duração do filme (em minutos)
+                                printf ("\nDuracao do filme (em minutos):\n"); //Qual a duração do filme (em minutos)
                                 scanf ("%d", &filme.duracao);
                                 getchar();
                                 printf ("\nDiretor(a) do filme:\n"); //Qual o(a) diretor(a) do filme
                                 scanf (" %99[^\n]", filme.diretor);
                                 getchar();
-                                printf ("\nNota pessoal para o filme (0 a 10): "); //Qual a sua nota para o filme (0 a 10)
+                                printf ("\nNota pessoal para o filme (0 a 10):\n"); //Qual a sua nota para o filme (0 a 10)
                                 scanf ("%d", &filme.nota_pessoal);
 
                                 while (filme.nota_pessoal > 10 || filme.nota_pessoal < 0) {
@@ -246,14 +246,14 @@ int main() {
                                 getchar();
                                 printf ("\nFilmes com nota superior a %d\n\n", nota);
                                 filmes_nota_superior ( lista , nota );
-                                printf ("\n\nVoltar: digite Enter");
+                                printf ("\n\nVoltar -> digite Enter");
                                 getchar();
                             break;
                         
                             case 4:
                                 limparTela();
                                 sortear_filme ( lista );
-                                printf ("\n\nVoltar: digite Enter");
+                                printf ("\n\nVoltar -> digite Enter");
                                 getchar ();
                                 
                             break;
@@ -263,7 +263,7 @@ int main() {
                         
                             default :
                                 limparTela();
-                                printf ("Opcao invalida.\n");
+                                printf ("\nOpcao invalida.\n");
                                 sleep(2);
                         
                             break;
@@ -276,7 +276,7 @@ int main() {
                     limparTela();
                     imprimir_lista_filmes ( lista );
                     
-                    printf ("\n\nVoltar: digiter Enter");
+                    printf ("\n\nVoltar -> digiter Enter");
                     getchar();
                     
                 break;
@@ -298,4 +298,5 @@ int main() {
     }
     
     return 0;
+
 }
