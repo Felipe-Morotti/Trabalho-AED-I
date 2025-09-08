@@ -2,7 +2,7 @@
 Matheus Vieira e Felipe Morotti
 
 
----##Este é um projeto acadêmico desenvolvido em *C* que implementa um sistema de cinema, usando listas duplamente encadeadas.##
+Este é um projeto acadêmico desenvolvido em *C* que implementa um sistema de cinema, usando listas duplamente encadeadas.
 
 
 
