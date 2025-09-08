@@ -1,2 +1,2 @@
 # Trabalho-AED-I
-Matheus Vieira
+Matheus Vieira e Felipe Morotti
