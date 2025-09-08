@@ -10,36 +10,19 @@ Este é um projeto acadêmico desenvolvido em *C* que implementa um sistema de c
 
 Compilador GCC
 
-2. Compilação. Salve os arquivos juntos em um diretório de sua preferência.
-   
-Windows:
+2. Salve todos os arquivos .c e .h em um diretório de sua preferência.
 
-2.1 Abra o CMD na pasta do projeto:
-   
-cd caminho\para\Trabalho-AED-I
+3. Compilação e execução Windows:
 
-2.2 compilação usando:
+Com o CMD aberto na pasta correta do diretório (cd ...\....\...), digite:
 
-gcc *.c -o main.exe
+gcc *.c -o main.exe && .\main.exe
 
-Linux:
-2.1 Abra o CMD na pasta do projeto:
+4. Compilação e execução Linux:
 
-cd caminho/para/projeto-filmes
+Com o CMD aberto na pasta correta do diretório (cd .../.../...), digite:
 
-2.2 compilação usando:
-
-gcc *.c -o main
-
-3. Execução:
-
-Windows:
-
-.\main.exe
-
-Linux:
-
-./main
+gcc *.c -o main && ./main
 
 
 Para usar arquivos para inserção de elencos, adicione os arquivos .txt na mesma pasta dos outros arquivos .c e .h
