@@ -44,7 +44,6 @@ int main() {
                     printf ("4 - Remover ator de um filme;\n"); //Deseja remover um Ator de um filme
                     printf ("5 - Carregar elenco;\n"); //Carregar arquivo contendo elenco
                     printf ("6 - Voltar;\n\n");
-                    //printf ("Quantidade de filmes atualmente : %d \n", quantidade_filme (lista) );
                     printf ("Opcao: ");
                     scanf ("%d", & sub_opcao );
                     getchar();
@@ -297,4 +296,5 @@ int main() {
     }
     
     return 0;
+
 }
