@@ -362,7 +362,7 @@ void sortear_filme ( Lista *li ){ // Sorteia algum filme;
     printf (">>> Diretor      : %s \n", atual -> filme.diretor );
     printf (">>> Nota Pessoal : %d \n", atual -> filme.nota_pessoal);
     printf (">>> Descricao    : %s \n", atual -> filme.descricao );
-    printf ("\n");
+    printf ("\n------------------------------------- \n\n");
         
 }
 
