@@ -24,11 +24,15 @@ Trabalho-AED-I/
 └── README.m
 
 
+
+
 1. Pré-requisitos:
 Compilador GCC
 
+
 2. Compilação
 Windows
+
 2.1 Abra o CMD na pasta do projeto:
    
 cd caminho\para\Trabalho-AED-I
