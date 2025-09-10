@@ -7,7 +7,6 @@ typedef struct {
     char diretor [100];
     char titulo [100];
     char descricao [300];
-    int favorito; // 1 = favorito, 0 = não favorito
 } Filme;
 
 struct nofilme {
